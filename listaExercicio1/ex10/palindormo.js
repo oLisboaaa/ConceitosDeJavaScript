@@ -13,7 +13,7 @@ if (normal == reverse(normal)) {
     palindromo = true
 } else {
     palindromo = false
-    
+
 }
 
 console.log(palindromo)

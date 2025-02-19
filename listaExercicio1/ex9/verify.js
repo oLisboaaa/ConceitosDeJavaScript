@@ -1,9 +1,9 @@
 let isEmail = false
 
 function verificaEmail(str) {
-    if(str.indexOf('@') && str.indexOf('.')){
+    if (str.indexOf('@') && str.indexOf('.')) {
         isEmail = true
-    }else{
+    } else {
         isEmail = false
     }
 

@@ -4,7 +4,7 @@ function double(n1) {
     } else {
         console.log(n1 * 2)
     }
-    
+
 }
 
 double(9)
